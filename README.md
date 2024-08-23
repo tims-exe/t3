@@ -2,8 +2,8 @@
 
 ## Todo
 
-- [ ] deploy (vercel)
-- [ ] Basic UI
+- [x] deploy (vercel)
+- [ ] Basic UI  (uploadthing)
 - [ ] Setup database (vercel postgres)
 - [ ] connect database
 - [ ] authentication (clerk)
